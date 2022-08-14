@@ -1,0 +1,16 @@
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\bin\Debug\Let's Fish.exe.config
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\bin\Debug\Let's Fish.exe
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\bin\Debug\Let's Fish.pdb
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\LetsFish.csproj.AssemblyReference.cache
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\LetsFish.csproj.SuggestedBindingRedirects.cache
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\LetsFish.Form1.resources
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\LetsFish.Properties.Resources.resources
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\LetsFish.csproj.GenerateResource.cache
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\LetsFish.csproj.CoreCompileInputs.cache
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\Let's Fish.exe
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\Let's Fish.pdb
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\bin\Debug\Let's Fish.exe.manifest
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\bin\Debug\Let's Fish.application
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\Let's Fish.TrustInfo.xml
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\Let's Fish.exe.manifest
+D:\KodlamaProjeleri\c#\LetsFish\BirOyun\obj\Debug\Let's Fish.application
